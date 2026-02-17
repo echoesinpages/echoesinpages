@@ -1,4 +1,4 @@
 <div align="center">
-  <h3>Activity Wave</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=echoesinpages&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+  <h3>Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/echoesinpages/echoesinpages/output/github-snake-red.svg?v=1" alt="Red Snake Animation" width="100%" />
 </div>
